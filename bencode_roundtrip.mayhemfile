@@ -4,9 +4,6 @@ project: synapse
 # Target name (should be unique within the project)
 target: bencode_roundtrip
 
-# Base image to run the binary in.
-# image: ghcr.io/prateekvishnu/synapse:latest
-
 # List of commands used to test the target
 cmds:
 
